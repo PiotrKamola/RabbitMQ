@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java Queue:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_Queue_jar</output-path>
+    <root id="archive" name="Java Queue.jar">
+      <element id="module-output" name="Java Queue" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/2.0.11/slf4j-simple-2.0.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.11/slf4j-api-2.0.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.20.0/amqp-client-5.20.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
